@@ -54,7 +54,7 @@ currencyChange = () => {
         currencyImg.src = "./assets/Euro.svg"
     }
     if (select.value === 'Bitcoin') {
-        currencyName.innerHTML = 'Euro'
+        currencyName.innerHTML = 'Bitcoin'
         currencyImg.src = "./assets/Bitcoin.svg"
     }
 
